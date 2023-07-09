@@ -1,4 +1,4 @@
-# computer vision and control
+# Computer vision and control
 </br>
 To trigger certain actions upon the movement of specified object, color, hand gestures etc without any manual input.
 
